@@ -1,0 +1,14 @@
+.toolbar{
+  border-radius: 5px;
+  border: solid lightgrey 1px;
+  box-shadow: silver 1px 1px 2px 2px;
+}
+
+.card:hover{
+  cursor: pointer;
+  box-shadow: silver 1px 1px 2px 2px,silver -1px -1px 2px 2px;
+}
+
+.start-10{
+  left: 50px;
+}
